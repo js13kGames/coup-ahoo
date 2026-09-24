@@ -1,4 +1,7 @@
 ---
+genres:
+  - strategy
+  - action
 directors_cut: https://games.sahaqiel.com/coup-ahoo.html
 video: https://youtu.be/zMqQxP0QDTI
 post: https://anttihaavikko.itch.io/coup-ahoo/devlog/813227/post-mortem
